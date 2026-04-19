@@ -45,9 +45,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=Punyapat-Jai&theme=radical&hide_border=false" height=165 />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Punyapat-Jai&theme=radical&hide_border=false&layout=compact" height=165 />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Punyapat-Jai&layout=compact&theme=radical&exclude_langs=Jupyter%20Notebook" height="165" />
 </div>
-
 ---
 
 
